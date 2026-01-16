@@ -26,4 +26,4 @@ I began the analysis by exploring the dataset in Excel to familiarize myself wit
 Since the dataset from Kaggle was already clean, minimal cleaning was required. After reviewing the data, I imported the CSV file into SQL, where I conducted the majority of the analysis, wrote queries to calculate averages, counts, and percentages, and examined how workplace conditions affect mental health risk and employee well-being.
 
 ## Link to Tableau Public Dashboard 
-[Employee Mental health & well-Being Dashboard](https://public.tableau.com/app/profile/cristina.john7002/viz/HRDashboardMentalHealthRisk/Dashboard3)
+[Employee Mental Health & Well-Being Dashboard](https://public.tableau.com/app/profile/cristina.john7002/viz/HRDashboardMentalHealthRisk/Dashboard3)
